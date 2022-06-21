@@ -1,4 +1,7 @@
 description: A new TrueGRF project based on FIRS Steeltown
+grfid: f1bbba2c
 license: GPL-2.0
+name: bleh
 type: industry
+url: https://github.com/Will-the-mechanist/bleh
 version: 6
